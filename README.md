@@ -1,1 +1,2 @@
-# SMS-Classifier-using-Transformer
+# SMS-Classification-using-Transformer
+Predicting whether a sms is spam or ham.
